@@ -1,0 +1,528 @@
+2017-06-05 14:51:44,600 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-05 14:51:44,859 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>21.599999999999998</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-05 14:52:38,368 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-05 14:52:38,598 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>21.599999999999998</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-05 14:54:23,681 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-05 14:54:23,932 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>21.599999999999998</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-05 15:11:25,067 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-05 15:11:25,296 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>21.599999999999998</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-05 16:01:35,867 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>0.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-05 16:01:36,088 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>0</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-05 16:02:00,019 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>0.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-05 16:02:00,262 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>0</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 13:59:01,068 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 13:59:01,326 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>21.599999999999998</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 14:07:42,201 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 14:07:42,589 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>21.599999999999998</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 14:08:30,032 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 14:08:30,232 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>21.599999999999998</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 14:08:30,252 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>feetPerminute</FromUnit>
+      <ToUnit>feetPerminute</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 14:08:30,441 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>6</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 16:31:24,072 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 16:31:24,283 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>21.599999999999998</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 16:31:24,299 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>feetPerminute</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 16:31:24,486 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>0.10972798979968607</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 16:37:21,837 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 16:37:22,054 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>21.599999999999998</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 16:37:22,061 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>feetPerminute</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 16:37:22,246 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>0.10972798979968607</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 16:37:58,921 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 16:37:59,114 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>21.599999999999998</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 16:37:59,123 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>feetPerminute</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 16:37:59,304 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>0.10972798979968607</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 16:40:41,392 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 16:40:41,659 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>21.599999999999998</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 16:40:41,674 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>feetPerminute</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 16:40:41,863 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>0.10972798979968607</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 21:50:18,135 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 21:50:18,352 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>21.599999999999998</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 21:50:18,372 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>3000.0</speed>
+      <FromUnit>feetPerminute</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 21:50:18,564 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>54.863994899843036</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 21:50:51,995 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>6.0</speed>
+      <FromUnit>centimetersPersecond</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 21:50:52,191 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>21.599999999999998</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
+2017-06-07 21:50:52,197 INFO u.SoapClientHandlerLog [main] Request:
+<?xml version="1.0" encoding="UTF-8"?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP-ENV:Header/>
+  <S:Body>
+    <ConvertSpeed xmlns="http://www.webserviceX.NET/">
+      <speed>3000.0</speed>
+      <FromUnit>feetPerminute</FromUnit>
+      <ToUnit>kilometersPerhour</ToUnit>
+    </ConvertSpeed>
+  </S:Body>
+</S:Envelope>
+
+2017-06-07 21:50:52,381 INFO u.SoapClientHandlerLog [main] Response:
+<?xml version="1.0" encoding="UTF-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SOAP-ENV:Header/>
+  <soap:Body>
+    <ConvertSpeedResponse xmlns="http://www.webserviceX.NET/">
+      <ConvertSpeedResult>54.863994899843036</ConvertSpeedResult>
+    </ConvertSpeedResponse>
+  </soap:Body>
+</soap:Envelope>
+
